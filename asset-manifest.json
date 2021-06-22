@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/goodspace/static/css/main.2091adcd.chunk.css",
+    "main.js": "/goodspace/static/js/main.6e647b13.chunk.js",
+    "main.js.map": "/goodspace/static/js/main.6e647b13.chunk.js.map",
+    "runtime-main.js": "/goodspace/static/js/runtime-main.cc4fb422.js",
+    "runtime-main.js.map": "/goodspace/static/js/runtime-main.cc4fb422.js.map",
+    "static/js/2.6572dbef.chunk.js": "/goodspace/static/js/2.6572dbef.chunk.js",
+    "static/js/2.6572dbef.chunk.js.map": "/goodspace/static/js/2.6572dbef.chunk.js.map",
+    "index.html": "/goodspace/index.html",
+    "static/css/main.2091adcd.chunk.css.map": "/goodspace/static/css/main.2091adcd.chunk.css.map",
+    "static/js/2.6572dbef.chunk.js.LICENSE.txt": "/goodspace/static/js/2.6572dbef.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/goodspace/static/media/cool-background.fb58cb96.png",
+    "static/media/human.eda63d63.png": "/goodspace/static/media/human.eda63d63.png",
+    "static/media/user.b348eebe.jpg": "/goodspace/static/media/user.b348eebe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc4fb422.js",
+    "static/js/2.6572dbef.chunk.js",
+    "static/css/main.2091adcd.chunk.css",
+    "static/js/main.6e647b13.chunk.js"
+  ]
+}
